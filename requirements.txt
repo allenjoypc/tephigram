@@ -1,0 +1,7 @@
+Flask==3.0.0
+gunicorn==21.2.0
+matplotlib==3.8.4
+numpy==1.26.4
+metpy==1.6.2
+pint==0.23
+scipy==1.11.4
